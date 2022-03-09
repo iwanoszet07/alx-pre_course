@@ -2,4 +2,4 @@ git clone https://{token}@github.com/{username}/alx-pre_course.git
 git add .
 git commit -m 'message'
 git push
-
+git pull
